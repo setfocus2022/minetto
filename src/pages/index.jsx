@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Minetto Climatização</title>
+        <title>Home | Minetto Climatização - Lençóis Paulista - Contato</title>
         <meta
           name="description"
           content="Minetto Climatização -Serviço de aquecimento, ventilação e ar condicionado"
